@@ -1,0 +1,67 @@
+Removed Pin From Net: NetName=GND Pin=C6_1-2
+Removed Pin From Net: NetName=GND Pin=C7_1-1
+Removed Pin From Net: NetName=GND Pin=C8_1-1
+Removed Pin From Net: NetName=GND Pin=C9_1-1
+Removed Pin From Net: NetName=GND Pin=C9_1-2
+Removed Pin From Net: NetName=GND Pin=C10_1-1
+Removed Pin From Net: NetName=GND Pin=C10_1-2
+Removed Pin From Net: NetName=GND Pin=C11_1-1
+Removed Pin From Net: NetName=GND Pin=C11_1-2
+Removed Pin From Net: NetName=GND Pin=C12_1-1
+Removed Pin From Net: NetName=GND Pin=C12_1-2
+Removed Pin From Net: NetName=GND Pin=C13_1-1
+Removed Pin From Net: NetName=GND Pin=C13_1-2
+Removed Pin From Net: NetName=GND Pin=C14_1-1
+Removed Pin From Net: NetName=GND Pin=C14_1-2
+Removed Pin From Net: NetName=GND Pin=C17_1-1
+Removed Pin From Net: NetName=GND Pin=C17_1-2
+Removed Pin From Net: NetName=GND Pin=C18_1-1
+Removed Pin From Net: NetName=GND Pin=C18_1-2
+Removed Pin From Net: NetName=GND Pin=C21_1-1
+Removed Pin From Net: NetName=GND Pin=C21_1-2
+Removed Pin From Net: NetName=GND Pin=C22_1-1
+Removed Pin From Net: NetName=GND Pin=C22_1-2
+Removed Pin From Net: NetName=GND Pin=C25_1-1
+Removed Pin From Net: NetName=GND Pin=C25_1-2
+Removed Pin From Net: NetName=GND Pin=C26_1-1
+Removed Pin From Net: NetName=GND Pin=C26_1-2
+Removed Pin From Net: NetName=V9_out Pin=C39-2
+Removed Pin From Net: NetName=GND Pin=D1_1-2
+Removed Pin From Net: NetName=GND Pin=D2_1-1
+Removed Pin From Net: NetName=GND Pin=D3_1-2
+Removed Pin From Net: NetName=GND Pin=D4_1-1
+Removed Pin From Net: NetName=GND Pin=D5_1-2
+Removed Pin From Net: NetName=GND Pin=D6_1-1
+Removed Pin From Net: NetName=GND Pin=D7_1-2
+Removed Pin From Net: NetName=GND Pin=D8_1-1
+Removed Pin From Net: NetName=GND Pin=D9_1-2
+Removed Pin From Net: NetName=GND Pin=D10_1-1
+Removed Pin From Net: NetName=GND Pin=D11_1-1
+Removed Pin From Net: NetName=GND Pin=D11_1-2
+Removed Pin From Net: NetName=V9_out Pin=D12-1
+Removed Pin From Net: NetName=GND Pin=D12_1-2
+Removed Pin From Net: NetName=GND Pin=D13_1-1
+Removed Pin From Net: NetName=GND Pin=D14_1-2
+Removed Pin From Net: NetName=GND Pin=D15_1-1
+Removed Pin From Net: NetName=GND Pin=D16_1-2
+Removed Pin From Net: NetName=GND Pin=D17_1-1
+Removed Pin From Net: NetName=GND Pin=D18_1-2
+Removed Pin From Net: NetName=GND Pin=D19_1-1
+Removed Pin From Net: NetName=GND Pin=D20_1-2
+Removed Pin From Net: NetName=GND Pin=D21_1-1
+Removed Pin From Net: NetName=GND Pin=D22_1-2
+Removed Pin From Net: NetName=GND Pin=D23_1-1
+Removed Pin From Net: NetName=GND Pin=D24_1-1
+Removed Pin From Net: NetName=GND Pin=D24_1-2
+Removed Pin From Net: NetName=V9_out Pin=D25-2
+Add Pin To Net: Unknown Pin: Pin C40-1
+Add Pin To Net: Unknown Pin: Pin C40-2
+Change Net Name : Old Net Name=V9_out New Net Name=NetC38_2
+Added Pin To Net: NetName=NetC39_2 Pin=C39-2
+Added Pin To Net: NetName=NetC39_2 Pin=D12-1
+Added Pin To Net: NetName=NetC39_2 Pin=D25-2
+Added Net: Name=NetC39_2
+Added Member To Class: ClassName=Soil_EH_Comparator Member=Component C11 47pF
+Added Member To Class: ClassName=Soil_EH_Comparator Member=Component C21 47pF
+Add Class Member: Failed to add class member : Component C40 Capacitor
+Added Member To Class: ClassName=Soil_EH_Comparator Member=Component D18 CDBQR0130L

@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=V12_out Pin=C22-1
+Removed Pin From Net: NetName=GND Pin=C22-2
+Removed Pin From Net: NetName=V12_out Pin=C23-1
+Removed Pin From Net: NetName=GND Pin=C23-2
+Removed Pin From Net: NetName=V12_out Pin=C24-1
+Removed Pin From Net: NetName=GND Pin=C24-2
+Removed Pin From Net: NetName=V12_out Pin=C25-1
+Removed Pin From Net: NetName=GND Pin=C25-2
+Removed Pin From Net: NetName=V12_out Pin=C26-1
+Removed Pin From Net: NetName=GND Pin=C26-2
+Removed Pin From Net: NetName=V12_out Pin=C27-1
+Removed Pin From Net: NetName=GND Pin=C27-2
+Removed Pin From Net: NetName=V12_out Pin=C28-1
+Removed Pin From Net: NetName=GND Pin=C28-2
+Removed Pin From Net: NetName=V12_out Pin=C29-1
+Removed Pin From Net: NetName=GND Pin=C29-2
+Removed Pin From Net: NetName=V12_out Pin=C30-1
+Removed Pin From Net: NetName=GND Pin=C30-2
+Removed Member From Class: ClassName=Soil_EH_Comparator Member=C22
+Removed Member From Class: ClassName=Soil_EH_Comparator Member=C23
+Removed Member From Class: ClassName=Soil_EH_Comparator Member=C24
+Removed Member From Class: ClassName=Soil_EH_Comparator Member=C25
+Removed Member From Class: ClassName=Soil_EH_Comparator Member=C26
+Removed Member From Class: ClassName=Soil_EH_Comparator Member=C27
+Removed Member From Class: ClassName=Soil_EH_Comparator Member=C28
+Removed Member From Class: ClassName=Soil_EH_Comparator Member=C29
+Removed Member From Class: ClassName=Soil_EH_Comparator Member=C30
+Added Component: Designator=C11(CAPC1608X95X40LL15T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0603A470FXACW1BC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC6_1 Pin=C11-1
+Added Pin To Net: NetName=NetC11_2 Pin=C11-2
+Added Member To Class: ClassName=Soil_EH_Comparator Member=Component C11 47pF

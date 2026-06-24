@@ -1,0 +1,156 @@
+Removed Pin From Net: NetName=V_store Pin=C11-1
+Removed Pin From Net: NetName=GND Pin=C11-2
+Removed Pin From Net: NetName=V_store Pin=C21-1
+Removed Pin From Net: NetName=GND Pin=C21-2
+Removed Pin From Net: NetName=V9_out Pin=C32-2
+Removed Pin From Net: NetName=V_store Pin=D12-1
+Removed Pin From Net: NetName=V4_out Pin=P3-2
+Removed Pin From Net: NetName=V9_out Pin=P4-2
+Removed Pin From Net: NetName=GND Pin=P5-1
+Removed Pin From Net: NetName=GND Pin=P6-4
+Removed Member From Class: ClassName=Soil_Tag_EH Member=P3
+Removed Member From Class: ClassName=Soil_Tag_EH Member=P4
+Removed Member From Class: ClassName=Soil_Tag_EH Member=P5
+Removed Member From Class: ClassName=Soil_Tag_EH Member=P6
+Change Component Footprint: Designator=D22 Old Footprint=0402_diode New Footprint=FP-0402-SOD-923F-MFG
+Change Component Footprint: Designator=D23 Old Footprint=0402_diode New Footprint=FP-0402-SOD-923F-MFG
+Change Component Footprint: Designator=D24 Old Footprint=0402_diode New Footprint=FP-0402-SOD-923F-MFG
+Change Component Footprint: Designator=C11 Old Footprint=FP-GRT31C-0_2-IPC_A New Footprint=CAPC1608X95X40LL15T15
+Change Component Footprint: Designator=C21 Old Footprint=FP-GRT31C-0_2-IPC_A New Footprint=CAPC1608X95X40LL15T15
+Change Component Comment : Designator=C11 Old Comment=10uF New Comment=47pF
+Change Component Comment : Designator=C21 Old Comment=10uF New Comment=47pF
+Change Component Comment : Designator=D22 Old Comment=SMS7630_diode New Comment=CDBQR0130L
+Change Component Comment : Designator=D23 Old Comment=SMS7630_diode New Comment=CDBQR0130L
+Change Component Comment : Designator=D24 Old Comment=SMS7630_diode New Comment=CDBQR0130L
+Change Managed Component Library Link : Designator=C11 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=F60D0F3F-5DBB-43CB-8B94-F665D0E3B6FF New ItemGUID=4697E79E-3FEA-4C36-910A-BFC7F912A02C Old RevisionGUID=5EDAEE24-1641-4F01-9D3D-310FB53B2378 New RevisionGUID=64A7954F-85A9-425E-9B14-CFB8139A6F06
+Change Managed Component Library Link : Designator=C21 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=F60D0F3F-5DBB-43CB-8B94-F665D0E3B6FF New ItemGUID=4697E79E-3FEA-4C36-910A-BFC7F912A02C Old RevisionGUID=5EDAEE24-1641-4F01-9D3D-310FB53B2378 New RevisionGUID=64A7954F-85A9-425E-9B14-CFB8139A6F06
+Change Managed Component Library Link : Designator=D22 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=BB69F3F4-12EE-48B5-B71A-653729B4E63B Old RevisionGUID= New RevisionGUID=0E4FDF0F-5FE1-42A6-8AB8-E78318D9F27F
+Change Managed Component Library Link : Designator=D23 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=BB69F3F4-12EE-48B5-B71A-653729B4E63B Old RevisionGUID= New RevisionGUID=0E4FDF0F-5FE1-42A6-8AB8-E78318D9F27F
+Change Managed Component Library Link : Designator=D24 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=BB69F3F4-12EE-48B5-B71A-653729B4E63B Old RevisionGUID= New RevisionGUID=0E4FDF0F-5FE1-42A6-8AB8-E78318D9F27F
+Change component parameters: Designator = "C11" ("C11"); Footprint = "FP-GRT31C-0_2-IPC_A"; UniqueID = "\ILRURERQ" ("\ILRURERQ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "VJ0603A470FXACW1BC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C21" ("C21"); Footprint = "FP-GRT31C-0_2-IPC_A"; UniqueID = "\RRCNJDPV" ("\RRCNJDPV")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "VJ0603A470FXACW1BC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D22" ("D22"); Footprint = "0402_diode"; UniqueID = "\MLDCQMSJ" ("\MLDCQMSJ")
+Change component parameters (AddParameter): Name = "Average Rectified Current"; Value = "100mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "1005"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Reverse Leakage Current"; Value = "10uA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Reverse Voltage (DC)"; Value = "30V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Surge Current"; Value = "1A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D23" ("D23"); Footprint = "0402_diode"; UniqueID = "\YEMDKNUR" ("\YEMDKNUR")
+Change component parameters (AddParameter): Name = "Average Rectified Current"; Value = "100mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "1005"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Reverse Leakage Current"; Value = "10uA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Reverse Voltage (DC)"; Value = "30V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Surge Current"; Value = "1A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D24" ("D24"); Footprint = "0402_diode"; UniqueID = "\IIDKDLDY" ("\IIDKDLDY")
+Change component parameters (AddParameter): Name = "Average Rectified Current"; Value = "100mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "1005"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Reverse Leakage Current"; Value = "10uA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Reverse Voltage (DC)"; Value = "30V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Surge Current"; Value = "1A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Added Component: Designator=C38(CAPC1608X95X40LL15T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0603A470FXACW1BC"; VariantName = "[No Variations]"
+Added Component: Designator=C39(CAPC1608X95X40LL15T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0603A470FXACW1BC"; VariantName = "[No Variations]"
+Added Component: Designator=D25(FP-0402-SOD-923F-MFG)
+Add component (AddParameter): Name = "Average Rectified Current"; Value = "100mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Reverse Leakage Current"; Value = "10uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Reverse Voltage (DC)"; Value = "30V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Surge Current"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Added Component: Designator=R5(FP-ERJ3EK-IPC_C)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Construction"; Value = "Rectangular"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.022inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "1MR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "ERJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size Code"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.8mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC6_1 Pin=C11-1
+Added Pin To Net: NetName=NetC6_1 Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C38-1
+Added Pin To Net: NetName=V9_out Pin=C38-2
+Added Pin To Net: NetName=GND Pin=C39-1
+Added Pin To Net: NetName=V9_out Pin=C39-2
+Add Pin To Net: Unknown Pin: Pin C40-1
+Add Pin To Net: Unknown Pin: Pin C40-2
+Added Pin To Net: NetName=V4_out Pin=D3-2
+Added Pin To Net: NetName=V9_out Pin=D12-1
+Added Pin To Net: NetName=V9_out Pin=D13-2
+Added Pin To Net: NetName=V_store Pin=D22-1
+Added Pin To Net: NetName=V9_out Pin=D25-2
+Added Pin To Net: NetName=Vcomp Pin=R5-1
+Added Pin To Net: NetName=V_plus Pin=R5-2
+Added Pin To Net: NetName=NetC11_2 Pin=C11-2
+Added Pin To Net: NetName=NetC11_2 Pin=D22-2
+Added Pin To Net: NetName=NetC11_2 Pin=D23-1
+Added Net: Name=NetC11_2
+Added Pin To Net: NetName=NetC21_2 Pin=C21-2
+Added Pin To Net: NetName=NetC21_2 Pin=D24-2
+Added Pin To Net: NetName=NetC21_2 Pin=D25-1
+Added Net: Name=NetC21_2
+Added Pin To Net: NetName=NetC32_2 Pin=C32-2
+Added Pin To Net: NetName=NetC32_2 Pin=D23-2
+Added Pin To Net: NetName=NetC32_2 Pin=D24-1
+Added Net: Name=NetC32_2
+Change Class Name : Old Net Name=Soil_Tag_EH New Net Name=Soil_EH_Comparator
+Added Member To Class: ClassName=Soil_EH_Comparator Member=Component C38 47pF
+Added Member To Class: ClassName=Soil_EH_Comparator Member=Component C39 47pF
+Add Class Member: Failed to add class member : Component C40 Capacitor
+Added Member To Class: ClassName=Soil_EH_Comparator Member=Component D22 CDBQR0130L
+Added Member To Class: ClassName=Soil_EH_Comparator Member=Component D23 CDBQR0130L
+Added Member To Class: ClassName=Soil_EH_Comparator Member=Component D24 CDBQR0130L
+Added Member To Class: ClassName=Soil_EH_Comparator Member=Component D25 CDBQR0130L
+Added Member To Class: ClassName=Soil_EH_Comparator Member=Component R5 1M
