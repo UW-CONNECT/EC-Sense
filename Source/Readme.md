@@ -1,0 +1,1 @@
+File USRP_Transmit_Packet_Detection.py is used to transmit and receive simulateously at different frequencies. This code is written in Python using threads.
